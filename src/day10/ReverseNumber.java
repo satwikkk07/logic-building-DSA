@@ -10,7 +10,7 @@ public class ReverseNumber {
         System.out.print("Enter a number: ");
         int num = scanner.nextInt();
 
-        int reversed = 0;
+        int reversed = 0; //sp
 
         // Loop until the number is reduced to 0
         while (num != 0) {
