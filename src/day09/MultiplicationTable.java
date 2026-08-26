@@ -20,7 +20,7 @@ public class MultiplicationTable {
 
                 // Using printf to format the output exactly like: 5 x 1 = 5
                 // %d acts as a placeholder for integers
-                System.out.printf("%d x %d = %d\n" , number, i, result);
+                System.out.printf("%d x %d = %d\n" , number, i, result); //understand logic properly
             }
 
         } catch (Exception e) {
