@@ -11,7 +11,7 @@ public class Armstrong {
             int num = sc.nextInt();
 
             int original = num;
-            int temp = num;
+            int temp  = num;
 
             // Count number of digits
             int digits = 0;
