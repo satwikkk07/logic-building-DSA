@@ -19,6 +19,8 @@ public class Factorial {
                 System.out.println(i + "! = " + factorial);
             }
 
+            //New commit addition
+
             sc.close();
         }
 }
