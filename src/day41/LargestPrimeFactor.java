@@ -6,7 +6,7 @@ public class LargestPrimeFactor {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("Enter a Number : ");
+        System.out.print("Enter a Number To Check Largest Prime Factor: ");
 
         int num = sc.nextInt();
 
@@ -33,7 +33,7 @@ public class LargestPrimeFactor {
         }
 
 
-        System.out.println("Largest Factor is : " + LargestFactor);
+        System.out.println("Largest Prime Factor is : " + LargestFactor);
 
         sc.close();
 
