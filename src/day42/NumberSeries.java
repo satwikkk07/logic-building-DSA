@@ -16,6 +16,7 @@ public class NumberSeries{
             sum = sum + (1.0 / i);
         }
 
+
         System.out.println("Sum of the series: " + sum);
 
         sc.close();
