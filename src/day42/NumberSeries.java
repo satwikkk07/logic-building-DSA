@@ -7,7 +7,7 @@ public class NumberSeries{
 
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("Enter n: ");
+        System.out.print("Enter number to get sum upto fractions: ");
         int n = sc.nextInt();
 
         double sum = 0;
