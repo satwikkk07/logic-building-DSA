@@ -37,11 +37,27 @@ public class MostFrequent {
                 }
             }
 
-            // Print all elements having maximum frequency
             System.out.print("Most frequent element(s): ");
 
+            // Print each element only once
             for (int i = 0; i < n; i++) {
 
+                // Check if element appeared before
+                boolean alreadyPrinted = false;
+
+                for (int k = 0; k < i; k++) {
+
+                    if (arr[i] == arr[k]) {
+                        alreadyPrinted = true;
+                        break;
+                    }
+                }
+
+                if (alreadyPrinted) {
+                    continue;
+                }
+
+                // Count frequency
                 int count = 0;
 
                 for (int j = 0; j < n; j++) {
