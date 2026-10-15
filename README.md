@@ -6,7 +6,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/Java-Logic%20Building-orange?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/100%20Days-Challenge-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/50%20Days-Challenge-7C3AED?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/DSA-Practice-00B8D9?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Consistency-∞-22C55E?style=for-the-badge"/>
 </p>
